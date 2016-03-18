@@ -1,0 +1,19 @@
+{
+  "name": "mystack-init",
+  "version": "1.0.0",
+  "description": "My clean stack init",
+  "license": "MIT",
+  "author": "Jean-Baptiste Pasquier <contact@jbpasquier.eu>",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "angular": "latest",
+    "angular-animate": "latest",
+    "angular-route": "latest",
+    "bootstrap": "latest",
+    "jquery": "latest"
+  }
+}

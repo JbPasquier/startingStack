@@ -1,0 +1,9 @@
+node_modules/
+*.DS_Store
+config/database.js
+bower_components
+npm-debug.log
+public/bower
+public/**/*.min*
+public/**/*.css
+public/**/*templates.js

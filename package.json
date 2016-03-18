@@ -1,0 +1,31 @@
+{
+  "name": "mystack",
+  "version": "1.0.0",
+  "description": "My clean stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+  	"type": "git",
+  	"url": "git://"
+  },
+  "author": "Jean-Baptiste Pasquier <contact@jbpasquier.eu>",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "*"
+  },
+  "engine": {
+  	"node": "*"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "bluebird": "*",
+    "config": "*",
+    "pluralize": "*",
+    "method-override": "*",
+    "mongoose": "*",
+    "morgan": "*"        
+  }
+}
